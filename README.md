@@ -1,0 +1,1 @@
+In this complete hands-on project, we take a real nightmare dataset of 23 messy tables and rebuild it into one clean star schema you can actually trust. Exactly how it should be done in the real-life scenario.
